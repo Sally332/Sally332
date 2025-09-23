@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Welcome to my GitHub!  
+## 👩‍🔬 — Computational Biologist | Cancer Genomics & Interpretable AI
 
-Computational Biologist | Cancer Genomics & Interpretable AI 👩‍🔬 
-I develop **interpretable machine learning frameworks for cancer genomics**, with a focus on connecting high-dimensional data to mechanistic biological insight.  
-My work spans **multi-omic integration, perturbation modeling, spatial transcriptomics, and drug response prediction**, always emphasizing reproducibility, interpretability, and translational impact.
+Welcome to my GitHub!  
+ 
+I develop **interpretable machine learning frameworks for cancer genomics**, with a focus on connecting high-dimensional data to mechanistic biological insight. My work spans **multi-omic integration, perturbation modeling, spatial transcriptomics, and drug response prediction**, always emphasizing reproducibility, interpretability, and translational impact.
 
 ---
 
