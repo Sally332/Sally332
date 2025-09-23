@@ -1,4 +1,5 @@
-## Hi there! 👩‍🔬 Computational Biologist | Cancer Genomics & Interpretable AI
+
+## 👩‍🔬 Computational Biologist | Cancer Genomics & Interpretable AI
 
 Welcome to my GitHub!  
  
