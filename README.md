@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## 👩‍🔬 — Computational Biologist | Cancer Genomics & Interpretable AI
+## Hi there! 👩‍🔬 Computational Biologist | Cancer Genomics & Interpretable AI
 
 Welcome to my GitHub!  
  
@@ -9,8 +7,7 @@ I develop **interpretable machine learning frameworks for cancer genomics**, wit
 ---
 
 ## 🔬 Research Vision
-How do genomic alterations and perturbations reprogram cancer cell states and expose vulnerabilities that can be targeted therapeutically?  
-To answer this, I build models that are **predictive but also mechanistically informative**, avoiding black-box predictions and instead revealing **pathways, subnetworks, and signaling hubs** that drive tumor behavior.
+How do genomic alterations and perturbations reprogram cancer cell states and expose vulnerabilities that can be targeted therapeutically? To answer this, I build models that are **predictive but also mechanistically informative**, avoiding black-box predictions and instead revealing **pathways, subnetworks, and signaling hubs** that drive tumor behavior.
 
 ---
 
