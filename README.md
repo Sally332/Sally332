@@ -14,7 +14,7 @@ How do genomic alterations and perturbations reprogram cancer cell states and ex
 
 ## 📂 Key Projects
 
-### 1. [MM-KPNN](https://github.com/Sally332/MM-KPNN-Neural-Network)
+### 1. [MM-KPNN](https://github.com/Sally332/MM-KPNN-Neural-Network) [![Repo](https://img.shields.io/badge/GitHub-Repo-purple?logo=github)](https://github.com/Sally332/MM-KPNN-Neural-Network)
 Interpretable multimodal neural network that integrates **scRNA-seq + scATAC-seq** using biological priors.  
 - Decoder constrained by **pathway and TF nodes**  
 - Provides **mechanistic attributions** at the pathway and regulator level  
@@ -22,7 +22,7 @@ Interpretable multimodal neural network that integrates **scRNA-seq + scATAC-seq
 
 ---
 
-### 2. [Perturbation-MMKPNN](https://github.com/Sally332/Perturbation-MMKPNN)
+### 2. [Perturbation-MMKPNN](https://github.com/Sally332/Perturbation-MMKPNN) [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Sally332/Perturbation-MMKPNN)
 Extends MM-KPNN to **perturbation-response data** (e.g., scPerturb, Perturb-seq, L1000).  
 - Models how **drug or CRISPR perturbations** reprogram transcriptional states  
 - Bottleneck layer reveals **latent pathways and regulators** driving responses  
@@ -30,7 +30,7 @@ Extends MM-KPNN to **perturbation-response data** (e.g., scPerturb, Perturb-seq,
 
 ---
 
-### 3. [DrugResponse-GNN](https://github.com/Sally332/DrugResponse-GNN)
+### 3. [DrugResponse-GNN](https://github.com/Sally332/DrugResponse-GNN) [![Repo](https://img.shields.io/badge/GitHub-Repo-green?logo=github)](https://github.com/Sally332/DrugResponse-GNN)
 Graph neural network for **drug sensitivity prediction** in cancer cell lines.  
 - Integrates **multi-omic features, drug descriptors, and prior knowledge graphs**  
 - Uses a **pathway bottleneck** for mechanistic interpretability  
@@ -38,7 +38,7 @@ Graph neural network for **drug sensitivity prediction** in cancer cell lines.
 
 ---
 
-### 4. [SpatialMMKPNN](https://github.com/Sally332/SpatialMMKPNN-Interpretable-Spatial-Graph-Framework)
+### 4. [SpatialMMKPNN](https://github.com/Sally332/SpatialMMKPNN-Interpretable-Spatial-Graph-Framework) [![Repo](https://img.shields.io/badge/GitHub-Repo-orange?logo=github)](https://github.com/Sally332/SpatialMMKPNN-Interpretable-Spatial-Graph-Framework)
 Applies **graph-based interpretable AI** to **10x Visium spatial transcriptomics**.  
 - Combines **Graph Attention Networks (GAT)** with **knowledge-primed decoding**
 - Explains processes like **immune exclusion, stromal remodeling, and therapy-induced rewiring**  
