@@ -45,7 +45,7 @@ Applies **graph-based interpretable AI** to **10x Visium spatial transcriptomics
 - Outputs **attention maps, pathway activity overlays, and ligand–receptor driver rankings**
 
 ### 📂 Applications
-### [Organoid-Data-Analysis](https://github.com/Sally332/Organoid-Data-Analysis) [![Repo](https://img.shields.io/badge/GitHub-Repo-orange?logo=github)](https://github.com/Sally332/Organoid-Data-Analysis)
+### [Organoid-Data-Analysis](https://github.com/Sally332/Organoid_Analysis) [![Repo](https://img.shields.io/badge/GitHub-Repo-orange?logo=github)](https://github.com/Sally332/Organoid_Analysis)
 A **modular framework** for computational analysis of organoid systems.  
 - Addresses **reproducibility, heterogeneity, fidelity, integration, and prediction**  
 - Integrates **RNA and protein modalities** into factor-based representations  
