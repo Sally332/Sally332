@@ -42,8 +42,14 @@ Graph neural network for **drug sensitivity prediction** in cancer cell lines.
 Applies **graph-based interpretable AI** to **10x Visium spatial transcriptomics**.  
 - Combines **Graph Attention Networks (GAT)** with **knowledge-primed decoding**
 - Explains processes like **immune exclusion, stromal remodeling, and therapy-induced rewiring**  
-- Outputs **attention maps, pathway activity overlays, and ligand–receptor driver rankings**  
+- Outputs **attention maps, pathway activity overlays, and ligand–receptor driver rankings**
 
+### 📂 Applications
+### [Organoid-Data-Analysis](https://github.com/Sally332/Organoid-Data-Analysis) [![Repo](https://img.shields.io/badge/GitHub-Repo-orange?logo=github)](https://github.com/Sally332/Organoid-Data-Analysis)
+A **modular framework** for computational analysis of organoid systems.  
+- Addresses **reproducibility, heterogeneity, fidelity, integration, and prediction**  
+- Integrates **RNA and protein modalities** into factor-based representations  
+- Applies **machine learning** to predict organoid quality and highlight driving features  
 
 ## Contact
 Sally Yepes 
