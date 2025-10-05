@@ -61,11 +61,11 @@ A modular framework for computational analysis of **organoid systems**.
 
 ---
 
-#### [Spatial_Mapping](https://github.com/Sally332/Spatial_Mapping) [![Repo](https://img.shields.io/badge/GitHub-Repo-orange?logo=github)](https://github.com/Sally332/Spatial_Mapping)
-Spatial transcriptomics notebook for **tumor and metastasis mapping**.  
-- Reproducible pipeline for **preprocessing, clustering, and spatial signatures**  
-- Applied to **GSE167036** (breast cancer primary and lymph-node metastases)  
-- Highlights **regional expression patterns** and **spatial heterogeneity**
+#### [Spatial_Transcriptomic_Mapping](https://github.com/Sally332/Spatial_Mapping) [![Repo](https://img.shields.io/badge/GitHub-Repo-orange?logo=github)](https://github.com/Sally332/Spatial_Mapping)
+Spatial mapping of **tumor and metastatic architecture** using 10x Visium transcriptomics.  
+- Integrates curated gene programs to define **epithelial, immune, stromal, and proliferative** regions  
+- Reveals **spatial organization** and **regional heterogeneity** across breast tumors and lymph node metastases  
+- Fully documented, **end-to-end notebook** with embedded results and biological interpretation  
 
 ---
 
