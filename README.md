@@ -1,9 +1,7 @@
 
 ## 👩‍🔬 Computational Biologist | Cancer Genomics & Interpretable AI
 
-Welcome to my GitHub!   
-
-I build **interpretable machine learning frameworks and analytical pipelines** for cancer genomics, focused on transforming large-scale genomic and spatial datasets into mechanistic insight. My work integrates **multi-omic, single-cell, and spatial data** within reproducible, high-performance workflows, emphasizing **pipeline development, interpretability, and translational impact**
+Building open, reproducible frameworks for multi-omic data integration, spatial transcriptomics, and computational pathology.
 
 ---
 
