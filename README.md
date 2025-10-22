@@ -107,6 +107,8 @@ Workflow for **secure, efficient genomic data transfer** using Globus.
 
 ---
 ## Contact
-Sally Yepes 
-📧 sallyepes233@gmail.com  
-🔗 GitHub: [Sally332](https://github.com/Sally332)
+Sally Yepes  
+📧 [sallyepes233@gmail.com](mailto:sallyepes233@gmail.com)  
+🔗 [GitHub: Sally332](https://github.com/Sally332)  
+🔗 [Portfolio: sally332.github.io](https://sally332.github.io)
+
