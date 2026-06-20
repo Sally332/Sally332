@@ -28,15 +28,6 @@ A methodological framework for testing interpretability claims in pathway-inform
 - Pathway identifiability assessment
 - Methodological validation framework
 
-### [MM-KPNN](https://github.com/Sally332/MM-KPNN-Neural-Network)
-
-An interpretable multimodal neural network integrating scRNA-seq and scATAC-seq data through biologically informed pathway priors. The framework combines predictive modeling with mechanistic interpretation to characterize regulatory programs underlying cellular identity and state transitions.
-
-- Knowledge-primed neural network architecture
-- Multimodal single-cell integration
-- Pathway-constrained latent representations
-- Regulatory program interpretation
-
 ### [Geometry-Aware Ligand–Receptor Analysis for Spatial Transcriptomics](https://github.com/Sally332/Geometry-aware-ligand-receptor-analysis-spatial-transcriptomics)
 
 A geometry-aware framework for prioritizing biologically meaningful ligand–receptor interactions in spatial transcriptomics. The approach distinguishes spatial proximity from true interface enrichment, enabling more robust characterization of cellular communication programs across diverse tissue microenvironments.
@@ -45,6 +36,15 @@ A geometry-aware framework for prioritizing biologically meaningful ligand–rec
 - Geometry-preserving null models
 - Distance-weighted boundary scoring
 - Cross-tissue communication analysis
+
+### [MM-KPNN](https://github.com/Sally332/MM-KPNN-Neural-Network)
+
+An interpretable multimodal neural network integrating scRNA-seq and scATAC-seq data through biologically informed pathway priors. The framework combines predictive modeling with mechanistic interpretation to characterize regulatory programs underlying cellular identity and state transitions.
+
+- Knowledge-primed neural network architecture
+- Multimodal single-cell integration
+- Pathway-constrained latent representations
+- Regulatory program interpretation 
 
 ### [SpatialMMKPNN](https://github.com/Sally332/SpatialMMKPNN-Interpretable-Spatial-Graph-Framework)
 
