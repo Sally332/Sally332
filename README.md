@@ -1,4 +1,4 @@
-# 👩‍🔬 Computational Biologist | Statistical Genomics, Multiomics Integration & Biomedical Data Science
+# Computational Biologist | Statistical Genomics, Multiomics Integration & Biomedical Data Science
 
 Computational biologist developing computational methods and analytical frameworks for statistical genomics, multiomics integration, single-cell biology, spatial transcriptomics, and biologically informed machine learning. My work focuses on integrating molecular and clinical data, modeling complex biological systems, and developing reproducible computational approaches that improve biological interpretation, methodological rigor, and translational insight.
 
