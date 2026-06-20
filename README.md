@@ -1,138 +1,158 @@
-## 👩‍🔬 Computational Biologist | Genomics, Single-Cell Analysis & Interpretable AI
+# 👩‍🔬 Sally Yepes
 
-I develop interpretable machine learning frameworks that integrate multi-omic and spatial data to uncover the molecular logic of complex biological systems, with a focus on reproducibility, biological grounding, and transparent interpretation of high-dimensional genomics data.
+**Computational Biologist | Statistical Genomics | Single-Cell & Spatial Transcriptomics | Interpretable Machine Learning**
+
+I develop computational methods, reproducible analytical frameworks, and biologically grounded machine learning approaches for genomics, multiomics integration, single-cell biology, and spatial transcriptomics.
+
+My work focuses on statistical genomics, biological representation learning, interpretability, systems biology, and reproducible computational research.
 
 ---
 
 ## 🔬 Research Vision
 
-My work focuses on developing **interpretable and reproducible computational frameworks for genomics**, uniting biological prior knowledge with multi-omic and spatial data. The central goal is to move beyond black-box prediction toward **mechanistic understanding**, building models that not only perform well but explain how genetic variation, regulatory programs, and perturbations reshape cellular states. Each framework emphasizes **pathway- and network-level interpretability**, **cross-dataset generalization**, and **transparent benchmarking**, establishing reusable analytical standards for single-cell and multimodal genomics. Through this approach, I aim to bridge **machine learning, systems biology, and data-driven biological interpretation**, supporting robust and generalizable discovery across biological contexts.
+Modern biological datasets increasingly require computational models that not only achieve strong predictive performance but also provide meaningful biological insight.
+
+My research focuses on developing interpretable computational frameworks that integrate biological knowledge with genomic, transcriptomic, and spatial data to better understand cellular organization, molecular regulation, disease mechanisms, and biological heterogeneity.
+
+Current interests include:
+
+- Statistical genomics
+- Single-cell transcriptomics
+- Spatial transcriptomics
+- Multiomic integration
+- Interpretable machine learning
+- Biological representation learning
+- Cell–cell communication
+- Systems biology
+- Reproducible computational biology
 
 ---
 
-## 📂 Key Projects
+## 🔬 Featured Computational Methods
 
-The following key projects are part of the **MM-KPNN framework family**, a unified effort to develop **concept-bottleneck and biologically constrained models** that embed prior knowledge directly into network architectures, ensuring interpretability, reproducibility, and mechanistic insight across multi-omic and spatial data.
+### Single-Cell Concept Interpretability
 
----
+A rigorous evaluation framework for interpretable machine learning in single-cell transcriptomics.
 
-### 1. [SpatialMMKPNN](https://github.com/Sally332/SpatialMMKPNN-Interpretable-Spatial-Graph-Framework)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-orange?logo=github)](https://github.com/Sally332/SpatialMMKPNN-Interpretable-Spatial-Graph-Framework)
+[View Repository](https://github.com/Sally332/single-cell-concept-interpretability)
 
-A modular and interpretable graph framework for **spatial transcriptomics** in tissue microenvironments.  
-- Combines **Graph Attention Networks (GAT)** with **knowledge-primed decoding**  
-- Models **cell–cell communication**, **immune exclusion**, and **stromal remodeling**  
-- Outputs **attention maps**, **pathway overlays**, and **ligand–receptor driver rankings**
-
----
-
-### 2. [MM-KPNN](https://github.com/Sally332/MM-KPNN-Neural-Network)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-purple?logo=github)](https://github.com/Sally332/MM-KPNN-Neural-Network)
-
-Interpretable multimodal neural network integrating **scRNA-seq and scATAC-seq** using biological priors.  
-- Decoder constrained by **pathway and transcription factor nodes**  
-- Enables **mechanistic attribution** of regulatory programs and cell states  
-- Designed for **reproducible benchmarking** across single-cell modalities
+- Concept bottleneck model evaluation
+- Concept selectivity analysis
+- Concept-space geometry assessment
+- Gene-level mechanistic validation
+- Cross-regime interpretability benchmarking
 
 ---
 
-### 3. [DrugResponse-GNN](https://github.com/Sally332/DrugResponse-GNN)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-green?logo=github)](https://github.com/Sally332/DrugResponse-GNN)
+### Geometry-Aware Ligand–Receptor Analysis for Spatial Transcriptomics
 
-Pathway-bottleneck graph neural network for **perturbation and drug-response prediction**.  
-- Integrates **multi-omic features** with **prior knowledge graphs**  
-- Focuses on **cross-dataset generalization** across pharmacogenomic panels  
-- Provides **pathway-level interpretability** and reproducible evaluation
+A geometry-aware framework for prioritizing biologically meaningful ligand–receptor interactions in spatial transcriptomics.
 
----
+[View Repository](https://github.com/Sally332/Geometry-aware-ligand-receptor-analysis-spatial-transcriptomics)
 
-### 4. [Perturbation-MMKPNN](https://github.com/Sally332/Perturbation-MMKPNN)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Sally332/Perturbation-MMKPNN)
-
-Concept-bottleneck framework for modeling **drug and CRISPR perturbation responses** at single-cell resolution.  
-- Implements **pathway and TF bottlenecks** for interpretability  
-- Measures **attribution stability** across perturbation conditions  
-- Supports **counterfactual pathway analysis** in single-cell datasets
+- Spatially informed ligand–receptor prioritization
+- Geometry-preserving null models
+- Distance-weighted boundary scoring
+- Cross-tissue communication analysis
 
 ---
 
-### Additional Repositories
+### Falsification-Based Evaluation of Spatial Pathway Models
 
-#### [Organoid_Analysis](https://github.com/Sally332/Organoid_Analysis)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-orange?logo=github)](https://github.com/Sally332/Organoid_Analysis)
+A falsification-driven framework for evaluating interpretability and identifiability in spatial pathway models.
 
-A modular computational framework for the analysis of **organoid systems**.  
-- Addresses **reproducibility**, **heterogeneity**, and **data integration**  
-- Integrates **RNA and protein modalities** with interpretable ML  
-- Demonstrates **end-to-end reproducibility** through documented notebooks
+[View Repository](https://github.com/Sally332/Falsification-based-evaluation-spatial-pathway-models)
 
----
-
-#### [Spatial_Transcriptomic_Mapping](https://github.com/Sally332/Spatial_Mapping)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-orange?logo=github)](https://github.com/Sally332/Spatial_Mapping)
-
-Spatial mapping of **tissue architecture** using 10x Visium transcriptomics.  
-- Defines **epithelial**, **immune**, **stromal**, and **proliferative** regions  
-- Reveals **spatial organization** and **regional heterogeneity**  
-- Fully documented, end-to-end analytical workflow
+- Falsification-driven interpretability evaluation
+- Structural perturbation testing
+- Pathway identifiability assessment
+- Spatial transcriptomics applications
 
 ---
 
-#### [PacBio-SV-Pipeline](https://github.com/Sally332/PacBio-SV-Pipeline)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-teal?logo=github)](https://github.com/Sally332/PacBio-SV-Pipeline)
+### MM-KPNN
 
-End-to-end pipeline for **structural variant discovery and annotation** using PacBio long-read sequencing.  
-- Implements **clinical annotation (ACMG/AMP)** and variant filtering  
-- Includes **functional scoring** and visualization modules  
-- Designed for **scalable deployment** in HPC environments
+Interpretable multimodal neural network integrating scRNA-seq and scATAC-seq using biological priors.
 
----
+[View Repository](https://github.com/Sally332/MM-KPNN-Neural-Network)
 
-#### [Burden-Testing](https://github.com/Sally332/Burden-Testing)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-gray?logo=github)](https://github.com/Sally332/Burden-Testing)
-
-Modular framework for **rare-variant burden analysis** in genomic cohorts.  
-- Supports **SKAT, SKAT-O**, and extended statistical methods  
-- Implements **functional weighting** and **population correction**  
-- Provides reproducible filtering and QC workflows
+- Knowledge-primed neural network architecture
+- Pathway-constrained latent representations
+- Mechanistic interpretation of cellular states
+- Multimodal single-cell integration
 
 ---
 
-#### [Regulatory-Network-Reconstruction](https://github.com/Sally332/Regulatory-Network-Reconstruction)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-purple?logo=github)](https://github.com/Sally332/Regulatory-Network-Reconstruction)
+## 🧬 Additional Computational Resources
 
-Systems biology workflow for reconstructing **gene regulatory networks**.  
-- Integrates **TF–target priors** with expression-based inference  
-- Performs **network topology** and **modularity analysis**  
-- Identifies functionally enriched regulatory modules
+### SpatialMMKPNN
+
+Interpretable graph neural network integrating spatial transcriptomics, ligand–receptor signaling, and biological pathway knowledge.
+
+[View Repository](https://github.com/Sally332/SpatialMMKPNN-Interpretable-Spatial-Graph-Framework)
+
+### Organoid Analysis Framework
+
+Computational framework integrating transcriptomic, proteomic, and phenotypic data to evaluate organoid fidelity and biological variability.
+
+[View Repository](https://github.com/Sally332/Organoid_Analysis)
+
+### Spatial Transcriptomic Mapping
+
+Framework for spatial characterization of tissue architecture and cellular organization.
+
+[View Repository](https://github.com/Sally332/Spatial_Transcriptomic_Mapping)
+
+### PacBio Structural Variant Pipeline
+
+End-to-end workflow for structural variant discovery, annotation, and interpretation using long-read sequencing.
+
+[View Repository](https://github.com/Sally332/PacBio-SV-Pipeline)
+
+### Burden Testing Pipeline
+
+Framework for rare variant association and gene-level burden testing.
+
+[View Repository](https://github.com/Sally332/Burden-Testing)
+
+### Regulatory Network Reconstruction
+
+Systems biology workflow for reconstructing gene regulatory networks and identifying disease-associated pathways.
+
+[View Repository](https://github.com/Sally332/Regulatory-Network-Reconstruction)
+
+### WGCNA Co-Expression Analysis
+
+Pipeline for gene co-expression analysis, module detection, and network interpretation.
+
+[View Repository](https://github.com/Sally332/WGCNA-Co-Expression-Analysis)
+
+### Data Transfer Pipeline
+
+Workflow for scalable and reproducible transfer of large genomic datasets across research computing environments.
+
+[View Repository](https://github.com/Sally332/Data-Transfer-Pipeline)
 
 ---
 
-#### [WGCNA-Co-Expression-Analysis](https://github.com/Sally332/WGCNA-Co-Expression-Analysis)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-yellow?logo=github)](https://github.com/Sally332/WGCNA-Co-Expression-Analysis)
+## 📚 Selected Preprints
 
-Gene co-expression analysis pipeline using **WGCNA**.  
-- Identifies expression modules and hub genes  
-- Evaluates **biological function** and **module preservation**  
-- Applies to **bulk and single-cell RNA-seq** datasets
+### Layer- and Regime-Dependent Interpretability in Concept Bottleneck Models for Single-Cell Transcriptomics (2026)
 
----
+DOI: https://doi.org/10.5281/zenodo.19476507
 
-#### [Data-Transfer-Pipeline](https://github.com/Sally332/Data-Transfer-Pipeline)  
-[![Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Sally332/Data-Transfer-Pipeline)
+### Geometry-Aware Ligand–Receptor Analysis Reveals Tumor Communication Patterns (2026)
 
-Workflow for **secure and efficient genomic data transfer** using Globus.  
-- Supports **HPC environments** and structured data sharing  
-- Enables **checksum validation** and metadata tracking  
-- Designed for collaborative, reproducible research
+DOI: https://doi.org/10.5281/zenodo.19476574
+
+### Falsification-Based Evaluation Reveals Limits of Interpretability in Spatial Pathway Models (2026)
+
+DOI: https://doi.org/10.5281/zenodo.19476625
 
 ---
 
-## Contact
+## 📫 Contact
 
-**Sally Yepes**  
-📧 [sallyepes233@gmail.com](mailto:sallyepes233@gmail.com)  
-🔗 [GitHub: Sally332](https://github.com/Sally332)  
-🔗 [Portfolio: sally332.github.io](https://sally332.github.io)
+📧 sallyepes233@gmail.com
 
-
+🔗 GitHub: https://github.com/Sally332
