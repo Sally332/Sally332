@@ -49,7 +49,7 @@ A methodological framework for testing interpretability claims in pathway-inform
 
 ### <a href="https://github.com/Sally332/MM-KPNN-Neural-Network"><ins>MM-KPNN</ins></a>
 
-An interpretable multimodal neural network integrating scRNA-seq and scATAC-seq data through biologically informed pathway priors. The framework combines predictive modeling with mechanistic interpretation to characterize regulatory programs underlying cellular identity and state transitions.
+An interpretable multimodal neural network integrating **scRNA-seq and scATAC-seq** data through biologically informed pathway priors. The framework combines predictive modeling with mechanistic interpretation to characterize regulatory programs underlying cellular identity and state transitions.
 
 - Knowledge-primed neural network architecture
 - Multimodal single-cell integration
