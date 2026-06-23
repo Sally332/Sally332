@@ -75,7 +75,7 @@ Computational framework integrating transcriptomic, proteomic, and phenotypic me
 - Reproducible analytical workflows
 - Biological heterogeneity assessment
 
-### <a href="https://github.com/Sally332/Spatial_Transcriptomic_Mapping"><ins>Spatial Transcriptomic Mapping</ins></a>
+### <a href="https://github.com/Sally332/Spatial_Mapping"><ins>Spatial Transcriptomic Mapping</ins></a>
 
 Framework for characterizing tissue architecture and cellular organization using spatial transcriptomic profiling.
 
