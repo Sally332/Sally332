@@ -14,7 +14,7 @@ The repositories below contain research software, analytical frameworks, computa
 
 ### <a href="https://github.com/Sally332/single-cell-concept-interpretability"><ins>Single-Cell Concept Interpretability</ins></a>
 
-**Associated manuscript** Yepes S. (2026). *Layer- and regime-dependent interpretability in concept bottleneck models for single-cell transcriptomics.* DOI: https://doi.org/10.5281/zenodo.19476507
+**Associated manuscript**. Yepes S. (2026). *Layer- and regime-dependent interpretability in concept bottleneck models for single-cell transcriptomics.* DOI: https://doi.org/10.5281/zenodo.19476507
 
 A comprehensive evaluation framework for concept bottleneck models in single-cell transcriptomics. The study investigates whether learned concepts remain biologically meaningful across datasets, architectures, and prediction regimes through concept selectivity analyses, latent-space geometry, and biological validation.
 
@@ -25,7 +25,7 @@ A comprehensive evaluation framework for concept bottleneck models in single-cel
 
 ### <a href="https://github.com/Sally332/Geometry-aware-ligand-receptor-analysis-spatial-transcriptomics"><ins>Geometry-Aware Ligand–Receptor Analysis for Spatial Transcriptomics</ins></a>
 
-**Associated manuscript** Yepes S. (2026). *Geometry-aware ligand–receptor analysis reveals tumor communication patterns.*  
+**Associated manuscript**. Yepes S. (2026). *Geometry-aware ligand–receptor analysis reveals tumor communication patterns.*  
 DOI: https://doi.org/10.5281/zenodo.19476574
 
 A geometry-aware framework for prioritizing biologically meaningful ligand–receptor interactions in spatial transcriptomics. The approach distinguishes spatial proximity from true interface enrichment, enabling more robust characterization of cellular communication programs across diverse tissue microenvironments.
@@ -37,7 +37,7 @@ A geometry-aware framework for prioritizing biologically meaningful ligand–rec
 
 ### <a href="https://github.com/Sally332/Falsification-based-evaluation-spatial-pathway-models"><ins>Falsification-Based Evaluation of Spatial Pathway Models</ins></a>
 
-**Associated manuscript** Yepes S. (2026). *Falsification-based evaluation of interpretability in spatial pathway models.*  
+**Associated manuscript**. Yepes S. (2026). *Falsification-based evaluation of interpretability in spatial pathway models.*  
 DOI: https://doi.org/10.5281/zenodo.19476625
 
 A methodological framework for testing interpretability claims in pathway-informed spatial models. By systematically challenging biological assumptions through controlled perturbations, the framework evaluates whether model explanations remain robust, identifiable, and biologically meaningful.
