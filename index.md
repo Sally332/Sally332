@@ -1,5 +1,5 @@
 # Sally Yepes, Ph.D.
-**Computational Biologist | Cancer Genomics & Interpretable AI**
+**Computational Biologist | Statistical Genetics | Human Genomics | Computational Methods Development**
 
 I develop **interpretable machine learning frameworks** that integrate multi-omic and spatial data to uncover the molecular logic of cancer. My work combines **mechanistic interpretability, reproducibility, and biological grounding**, aiming to build research-ready frameworks rather than one-off analyses. Current focus areas include **spatial transcriptomics**, **drug-response modeling**, and **graph-based multimodal architectures**.
 
